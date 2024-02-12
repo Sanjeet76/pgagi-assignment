@@ -54,7 +54,7 @@ project-root/
 
 ## Frontend
 
-The frontend of the application is built using React, and it is organized into components based on functionality. Each component is responsible for a specific part of the user interface.
+ frontend of the application is built using React, and it is organized into components based on functionality. Each component is responsible for a specific part of the user interface.
 
 ## Backend
 
