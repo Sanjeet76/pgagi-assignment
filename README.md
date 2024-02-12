@@ -2,7 +2,7 @@
 
 project-root/
 │
-├── recuriment/
+├── recruitment/
 │   ├── public/
 │   │   └── index.html
 │   │
